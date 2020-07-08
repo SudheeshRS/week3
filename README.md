@@ -1,2 +1,2 @@
 # week3
-IAm editing README file. Adding some details for the project description
+IAm editing README file. Hello Adding some details for the project description
